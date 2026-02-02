@@ -1,6 +1,8 @@
 # Hi, I'm Robert Pyne, PhD 👋
 ### ML Data Science Curious Biologist 🧬
 
+
+
 ## 💼 Work Experience
 
 ### **Machine Learning Specialization** | IBM & Coursera
@@ -45,8 +47,8 @@
 *Irvine, CA, USA* | 07.2017 – 08.2020
 
 * **Experimental Design:** Optimized miRNA study design and methods
-* **Genotyping:** Performed genotyping from Buccal swab DNA samples utilizing Amplicon-Seq
-* **Bioinformatics Pipelines:** implemented a Docker containerized **Bash-based computational pipeline** for microRNA analysis
+* **Genotyping:** Performed gene-targeted genotyping from Buccal swab DNA samples utilizing Amplicon-Seq
+* **Bioinformatics Pipelines:** implemented a Docker-containerized computational pipeline for microRNA analysis
 
 ---
 
@@ -54,8 +56,8 @@
 
 ### **Ph.D. in Biology** | Rutgers University
 *New Brunswick, NJ, USA* | 2011 – 2017
-* **Specialization:** Plant Genomics
+* Specialization: Plant Genomics
 
 ### **B.Sc. in Plant Science (Research Track)** | Rutgers University
 *New Brunswick, NJ, USA* | 2007 – 2011
-* **G.H. Cook Scholars Program Graduate**
+* G.H. Cook Scholars Program Graduate
