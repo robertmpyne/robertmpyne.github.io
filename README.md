@@ -1,7 +1,7 @@
-# Hi, I'm Robert Pyne 👋
-### ML Data Science Curious 🤖 Biologist 🧬
+# Hi, I'm Robert Pyne, PhD 👋
+### ML Data Science Curious Biologist 🧬
 
-## 💼 Work Experience
+## 💼 WORK EXPERIENCE
 
 ### **Machine Learning Specialization** | IBM & Coursera
 *Professional Certification (Remote)* | 01.2026 – Present
@@ -9,7 +9,6 @@
 * **End-to-End ML Deployment:** Developing a job-ready toolkit for deploying supervised and unsupervised models using Python, Scikit-Learn, and SciPy.
 * **Predictive Modeling:** Engineering classification and regression models for business and healthcare applications, focusing on model interpretability and performance metrics.
 * **Data Engineering:** Building automated pipelines for data preprocessing, feature engineering, and exploratory data analysis (EDA) to drive decision-making.
-* **Applied Portfolio:** Constructing a technical repository of projects
 
 ---
 
@@ -28,7 +27,7 @@
 
 * **Pipeline Implementation:** Deployed novel NGS workflows (i.e. GLOE-Seq & BLISS) for detecting single/double-stranded DNA breaks.
 * **Single-Cell Sequencing:** Planned and executed single-cell RNAseq experiments from fresh and frozen cell or tissue samples
-* **Machine Learning & Modeling:** Participated in the ONT Developer Program to perform model training for novel DNA modification detection.
+* **Machine Learning & Modeling:** Participated in the "ONT Developer Program" to perform model training for novel DNA modification detection.
 * **Operational Expansion:** Led the scaling and training for Oxford Nanopore Technologies (ONT) sequencing workflows.
 * **Mentorship:** Provided technical training on experimental design, methodology and instrumentation to IMB PhD students and staff.
 
@@ -45,7 +44,18 @@
 ### **Scientist** | FutureCeuticals, Discovery & Clinical Research
 *Irvine, CA, USA* | 07.2017 – 08.2020
 
-* **Experimental Design:** Optimized circulating miRNA extraction and quantified leukocyte gene expression after whole blood culture stimulation.
-* **Genotyping:** Performed subject genotyping utilizing Amplicon-Seq methodologies.
-* **Bioinformatics Pipelines:** implemented a Docker containerized Bash-based computational pipeline for microRNA analysis
+* **Experimental Design:** Optimized miRNA study design and methods
+* **Genotyping:** Performed genotyping from Buccal swab DNA samples utilizing Amplicon-Seq
+* **Bioinformatics Pipelines:** implemented a Docker containerized **Bash-based computational pipeline** for microRNA analysis
 
+---
+
+## 🎓 EDUCATION
+
+### **Ph.D. in Biology** | Rutgers University
+*New Brunswick, NJ, USA* | 2011 – 2017
+* **Specialization:** Plant Genomics
+
+### **B.Sc. in Plant Science (Research Track)** | Rutgers University
+*New Brunswick, NJ, USA* | 2007 – 2011
+* **G.H. Cook Scholars Program Graduate**
