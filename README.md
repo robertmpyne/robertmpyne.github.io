@@ -28,7 +28,7 @@
 
 * **Pipeline Implementation:** Deployed novel NGS workflows (i.e. GLOE-Seq & BLISS) for detecting single/double-stranded DNA breaks.
 * **Single-Cell Sequencing:** Planned and executed single-cell RNAseq experiments from fresh and frozen cell or tissue samples
-* **Machine Learning & Modeling:** Participated in the **ONT Developer Program** to perform model training for novel DNA modification detection.
+* **Machine Learning & Modeling:** Participated in the ONT Developer Program to perform model training for novel DNA modification detection.
 * **Operational Expansion:** Led the scaling and training for Oxford Nanopore Technologies (ONT) sequencing workflows.
 * **Mentorship:** Provided technical training on experimental design, methodology and instrumentation to IMB PhD students and staff.
 
@@ -47,5 +47,5 @@
 
 * **Experimental Design:** Optimized circulating miRNA extraction and quantified leukocyte gene expression after whole blood culture stimulation.
 * **Genotyping:** Performed subject genotyping utilizing Amplicon-Seq methodologies.
-* **Bioinformatics Pipelines:** implemented a Docker containerized **Bash-based computational pipeline** for microRNA analysis
+* **Bioinformatics Pipelines:** implemented a Docker containerized Bash-based computational pipeline for microRNA analysis
 
