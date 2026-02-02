@@ -9,6 +9,12 @@ email: robertmichaelpyne@gmail.com
 linkedin_username: robert-pyne-5300aa49
 github_username: robertmpyne
 
+# Author information
+author:
+  name: "Your Name"
+  avatar: "/home/robertpyne/Documents/Github/profile_pic.png"  # Path to your uploaded image
+  bio: "ML Engineer | Molecular Biology"
+  
 # Build Settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
