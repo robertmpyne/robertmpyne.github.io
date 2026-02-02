@@ -1,4 +1,4 @@
-# Hi, I'm Robert Pyne, PhD 
+# Hi, I'm Robert Pyne
 ### ML Data Science Curious Biologist 🧬
 
 
