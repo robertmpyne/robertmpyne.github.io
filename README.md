@@ -1,7 +1,7 @@
 # Hi, I'm Robert Pyne, PhD 👋
 ### ML Data Science Curious Biologist 🧬
 
-## 💼 WORK EXPERIENCE
+## 💼 Work Experience
 
 ### **Machine Learning Specialization** | IBM & Coursera
 *Professional Certification (Remote)* | 01.2026 – Present
@@ -22,7 +22,7 @@
 
 ---
 
-### **Staff Scientist** | Institute for Molecular Biology, Genomics CF
+### **Staff Scientist** | Institute of Molecular Biology, Genomics CF
 *Mainz, Germany* | 12.2021 – 06.2024
 
 * **Pipeline Implementation:** Deployed novel NGS workflows (i.e. GLOE-Seq & BLISS) for detecting single/double-stranded DNA breaks.
@@ -50,7 +50,7 @@
 
 ---
 
-## 🎓 EDUCATION
+## 🎓 Education
 
 ### **Ph.D. in Biology** | Rutgers University
 *New Brunswick, NJ, USA* | 2011 – 2017
