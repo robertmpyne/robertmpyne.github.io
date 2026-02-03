@@ -1,8 +1,6 @@
 # Hi, I'm Robert Pyne
 ### ML Data Science Curious Biologist 🧬
 
-
-
 ## 💼 Work Experience
 
 ### **Machine Learning Specialization** | IBM & Coursera
@@ -38,7 +36,7 @@
 ### **Scientist Consultant** | FutureCeuticals
 *Berlin, Germany (Remote)* | 09.2020 – 08.2021
 
-* **Biomarker Discovery:** Identified miRNA sera biomarker signatures using RNAseq and Qiagen RT-qPCR panels.
+* **Biomarker Discovery:** Identified miRNA sera biomarker signatures using RNAseq and Qiagen RT-qPCR panel data.
 * **Technical Reporting:** Generated structured experimental data summaries and reports for the Group Leader.
 
 ---
@@ -46,9 +44,9 @@
 ### **Scientist** | FutureCeuticals, Discovery & Clinical Research
 *Irvine, CA, USA* | 07.2017 – 08.2020
 
-* **Experimental Design:** Optimized miRNA study design and methods
-* **Genotyping:** Performed gene-targeted genotyping from Buccal swab DNA samples utilizing Amplicon-Seq
-* **Bioinformatics Pipelines:** implemented a Docker-containerized computational pipeline for microRNA analysis
+* **Experimental Design:** Optimized circulating miRNA study design and methods
+* **Genotyping:** Performed gene-specific genotyping from Buccal swab DNA samples utilizing Amplicon-Seq
+* **Bioinformatics Pipelines:** Implemented a Docker-containerized computational pipeline for miRNA analysis
 
 ---
 
