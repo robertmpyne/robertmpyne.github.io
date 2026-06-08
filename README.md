@@ -3,11 +3,11 @@
 
 ## 💼 Work Experience
 
-### **Machine Learning Specialization** | IBM & Coursera
-*Professional Certification (Remote)* | 01.2026 – Present
+### **Machine Learning Specialization** | IBM & Coursera Professional Certification 
+*Berlin (Remote)* | 01.2026 – Present
 
 * **End-to-End ML Deployment:** Developing a job-ready toolkit for deploying supervised and unsupervised models using Python, Scikit-Learn, and SciPy.
-* **Predictive Modeling:** Engineering classification and regression models for business and healthcare applications, focusing on model interpretability and performance metrics.
+* **Predictive Modeling:** Engineering classification and regression models for healthcare applications, focusing on model interpretability and performance. Throughout my career I encountered a number of biological questions that could not be adequately addressed due to inadequate data analysis tools. I am re-visiting some of these unanswered questions here with machine learning models beginning with the use of micro-RNA data to predict colon cancer stage. 
 * **Data Engineering:** Building automated pipelines for data preprocessing, feature engineering, and exploratory data analysis (EDA) to drive decision-making.
 
 ---
@@ -42,7 +42,7 @@
 ---
 
 ### **Scientist** | FutureCeuticals, Discovery & Clinical Research
-*Irvine, CA, USA* | 07.2017 – 08.2020
+*Irvine, USA* | 07.2017 – 08.2020
 
 * **Experimental Design:** Optimized circulating miRNA study design and methods
 * **Genotyping:** Performed gene-specific genotyping from Buccal swab DNA samples utilizing Amplicon-Seq
@@ -53,9 +53,9 @@
 ## 🎓 Education
 
 ### **Ph.D. in Biology** | Rutgers University
-*New Brunswick, NJ, USA* | 2011 – 2017
+*New Brunswick, USA* | 2011 – 2017
 * Specialization: Plant Genomics
 
-### **B.Sc. in Plant Science (Research Track)** | Rutgers University
+### **B.Sc. in Biology ** | Rutgers University
 *New Brunswick, NJ, USA* | 2007 – 2011
 * G.H. Cook Scholars Program Graduate
