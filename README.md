@@ -1,17 +1,20 @@
 # Hi, I'm Robert Pyne
-### ML Data Science Curious Biologist 🧬
+### Machine Learning Data Science - Curious Biologist 🧬
 
-## 💼 Work Experience
+## 💼 Professional Development
 
 ### **Machine Learning Specialization** | IBM & Coursera Professional Certification 
-*Berlin (Remote)* | 01.2026 – Present
+*Berlin, Germany (Remote)* | 01.2026 – Present
 
 * **End-to-End ML Deployment:** Developing a job-ready toolkit for deploying supervised and unsupervised models using Python, Scikit-Learn, and SciPy.
 * **Predictive Modeling:** Engineering classification and regression models for healthcare applications, focusing on model interpretability and performance. 
 * **Data Engineering:** Building automated pipelines for data preprocessing, feature engineering, and exploratory data analysis (EDA) to drive decision-making.
-* Throughout my career I encountered a number of biological questions that could not be adequately addressed due to limitations of existent data analysis tools. I am re-visiting some of these unanswered questions here with machine learning models beginning with the use of micro-RNA data to predict colon cancer stage. [View miRNA Cancer Stage Classifier Project](https://robertmpyne.github.io/miRNA_CC_classification.html)
+* Throughout my career I encountered a number of biological questions that could not be adequately addressed due to limitations of existent data analysis tools. I am re-visiting some of these unanswered questions here beginning with machine learning models beginning with the use of micro-RNA data to predict colon cancer stage:
+* [View miRNA Cancer Stage Classifier Project](https://robertmpyne.github.io/miRNA_CC_classification.html)
 
 ---
+
+## 💼 Work Experience
 
 ### **Project Manager NGS** | LGC Biosearch Technologies
 *Berlin, Germany* | 07.2024 – 09.2025
@@ -53,10 +56,10 @@
 
 ## 🎓 Education
 
-### **Ph.D. in Biology** | Rutgers University
+### **Ph.D. in Biology** | Rutgers, The State University of New Jersey
 *New Brunswick, USA* | 2011 – 2017
 * Specialization: Plant Genomics
 
-### **B.Sc. in Biology ** | Rutgers University
+### **B.Sc. in Biology** | Rutgers, The State University of New Jersey
 *New Brunswick, NJ, USA* | 2007 – 2011
 * G.H. Cook Scholars Program Graduate
