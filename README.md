@@ -61,5 +61,5 @@
 * Specialization: Plant Genomics
 
 ### **B.Sc. in Biology** | Rutgers, The State University of New Jersey
-*New Brunswick, NJ, USA* | 2007 – 2011
+*New Brunswick, USA* | 2007 – 2011
 * G.H. Cook Scholars Program Graduate
