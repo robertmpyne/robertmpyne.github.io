@@ -7,7 +7,7 @@
 *Berlin (Remote)* | 01.2026 – Present
 
 * **End-to-End ML Deployment:** Developing a job-ready toolkit for deploying supervised and unsupervised models using Python, Scikit-Learn, and SciPy.
-* **Predictive Modeling:** Engineering classification and regression models for healthcare applications, focusing on model interpretability and performance. Throughout my career I encountered a number of biological questions that could not be adequately addressed due to limitations of existent data analysis tools. I am re-visiting some of these unanswered questions here with machine learning models beginning with the use of micro-RNA data to predict colon cancer stage. 
+* **Predictive Modeling:** Engineering classification and regression models for healthcare applications, focusing on model interpretability and performance. Throughout my career I encountered a number of biological questions that could not be adequately addressed due to limitations of existent data analysis tools. I am re-visiting some of these unanswered questions here with machine learning models beginning with the use of micro-RNA data to predict colon cancer stage. [View miRNA Cancer Stage Classifier Project](https://robertmpyne.github.io/miRNA_CC_classification.html)
 * **Data Engineering:** Building automated pipelines for data preprocessing, feature engineering, and exploratory data analysis (EDA) to drive decision-making.
 
 ---
