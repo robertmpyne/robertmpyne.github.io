@@ -12,20 +12,6 @@
   Throughout my career I encountered a number of biological questions that could not be adequately addressed due to limitations of existent data analysis tools. I am re-visiting some of these unanswered questions here beginning with machine learning models beginning with the use of micro-RNA data to predict colon cancer stage:
   [miRNA Cancer Stage Classifier Project](https://robertmpyne.github.io/GDC_colon_miRNA_classification.html)
 
-<li>
-  <strong>Oncology Outcome Classifier Pipeline</strong> — Developed a dual-geometry ensemble model to mitigate cellular contamination artifacts in whole blood small-RNA sequencing data.
-  <br>
-  <span class="project-links" style="margin-top: 5px; display: inline-block;">
-    <a href="https://yourusername.github.io/your_notebook_name.html](https://robertmpyne.github.io/GDC_colon_miRNA_classification.html" 
-       onclick="window.open(this.href, '_blank'); return false;" 
-       target="_blank" 
-       rel="noopener noreferrer" 
-       style="font-weight: bold; color: #0066cc; text-decoration: underline;">
-       [View Live Interactive Notebook]
-    </a>
-  </span>
-</li>
-
 ---
 
 ## 💼 Work Experience
