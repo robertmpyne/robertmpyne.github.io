@@ -13,9 +13,9 @@
   [miRNA Cancer Stage Classifier Project](https://robertmpyne.github.io/GDC_colon_miRNA_classification.html)
 
 <li>
-  <strong>miRNA Cancer Stage Classifier Project</strong> — Developed a dual-geometry ensemble model to mitigate cellular contamination artifacts in whole blood small-RNA sequencing.
+  <strong>Oncology Outcome Classifier Pipeline</strong> — Developed a dual-geometry ensemble model to mitigate cellular contamination artifacts in whole blood small-RNA sequencing.
   <br>
-  <a href="./GDC_colon_miRNA_classification.html" target="_blank" rel="noopener noreferrer">View Full Notebook (New Window)</a>
+  <a href="https://robertmpyne.github.io/GDC_colon_miRNA_classification.html" target="_blank" rel="noopener noreferrer"><strong>[View Live Interactive Notebook]</strong></a>
 </li>
 
 ---
