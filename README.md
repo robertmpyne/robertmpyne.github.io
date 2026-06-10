@@ -10,7 +10,13 @@
 * **Predictive Modeling:** Engineering classification and regression models for healthcare applications, focusing on model interpretability and performance. 
 * **Data Engineering:** Building automated pipelines for data preprocessing, feature engineering, and exploratory data analysis (EDA) to drive decision-making.
   Throughout my career I encountered a number of biological questions that could not be adequately addressed due to limitations of existent data analysis tools. I am re-visiting some of these unanswered questions here beginning with machine learning models beginning with the use of micro-RNA data to predict colon cancer stage:
-  [View miRNA Cancer Stage Classifier Project](https://robertmpyne.github.io/miRNA_CC_classification.html)
+  [miRNA Cancer Stage Classifier Project](https://robertmpyne.github.io/miRNA_CC_classification.html)
+
+<li>
+  <strong>miRNA Cancer Stage Classifier Project</strong> — Developed a dual-geometry ensemble model to mitigate cellular contamination artifacts in whole blood small-RNA sequencing.
+  <br>
+  <a href="./GDC_colon_miRNA_classification.html" target="_blank" rel="noopener noreferrer">View Full Notebook (New Window)</a>
+</li>
 
 ---
 
