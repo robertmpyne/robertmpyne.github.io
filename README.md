@@ -1,5 +1,5 @@
 # Hi, I'm Robert Pyne
-### Machine Learning Data Science - Curious Biologist 🧬
+### Machine Learning - Curious Biologist 🧬
 
 ## 💼 Professional Development
 
